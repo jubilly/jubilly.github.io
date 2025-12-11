@@ -1,14 +1,14 @@
-# jubilly.github.io
-Ecossistema Dados Saúde Web
+# Ecossistema Dados Saúde Web
 
-Este projeto foi desenvolvido na pós-graduação Desenvolvimento Web do IFBA 2024.2 de Vitória da Conquista por Amanda Prates Caetano @jubilly.
+Este projeto foi desenvolvido na pós-graduação Desenvolvimento Web do IFBA 2024.2 de Vitória da Conquista por Amanda Prates Caetano [@jubilly](https://github.com/jubilly).
 
 Os recursos disponíveis são:
 
 
-- Design System Atomic
+- Biblioteca Design System Atomic
   
-  Github: [dados-saude-lib-components](https://github.com/designsystematomic-blip/dados-saude-lib-components ) 
+  Github: [dados-saude-lib-components](https://github.com/designsystematomic-blip/dados-saude-lib-components )
+  NPM: [design-system-atomic](https://www.npmjs.com/package/design-system-atomic) 
   
 
 - API Rest Dados Saúde
